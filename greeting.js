@@ -24,4 +24,4 @@ function displayDateTime() {
 }
 
 // Call the displayDateTime function to show the date, day, and time when the page loads
-window.onload = displayDateTime
+displayDateTime()
